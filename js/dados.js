@@ -88,7 +88,7 @@ var MENU = {
     "burgers": [
         {
             "id": "the-gramercy-tavern-burger-4-pack",
-            "img": "images/1.png",
+            "img": "images/22.png",
             "name": "Kibe ",
             "dsc": "joe, niguiri, temaki",
             "price":2
