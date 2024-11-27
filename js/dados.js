@@ -89,58 +89,58 @@ var MENU = {
         {
             "id": "the-gramercy-tavern-burger-4-pack",
             "img": "images/2.png",
-            "name": "joes ",
+            "name": "Kibe ",
             "dsc": "joe, niguiri, temaki",
-            "price": 99
+            "price":2
         },
         {
             "id": "shake-shack-shackburger-8-pack",
             "img": "images/2.png",
-            "name": "Shake Shack",
+            "name": "Bolinha de Queijo",
             "dsc": "Shake Shack ShackBurger® - 8 Pack",
-            "price": 49
+            "price": 2
         },
         {
             "id": "gotts-cheeseburger-kit-for-4",
             "img": "images/2.png",
-            "name": "Gott's Roadside",
+            "name": "Enroladinho de salsicha",
             "dsc": "Gott's Complete Cheeseburger Kit for 4",
-            "price": 99
+            "price": 2
         },
         {
             "id": "le-big-matt-kit-for-6",
             "img":  "images/2.png",
-            "name": "Emmy Squared",
+            "name": "Salgado de Frango",
             "dsc": "Le Big Matt Burger Kit for 6",
-            "price": 99
+            "price": 2
         },
         {
             "id": "shake-shack-shackburger-16-pack",
             "img": "images/2.png",
-            "name": "Shake Shack",
+            "name": "Coxinha",
             "dsc": "Shake Shack Shackburger® - 16 Pack",
-            "price": 89
+            "price": 2
         },
         {
             "id": "21-usda-prime-burgers-pack-of-18-8oz-each",
             "img":  "images/2.png",
-            "name": "Peter Luger Steak House",
+            "name": "Pastel",
             "dsc": "USDA Prime Burgers - Pack of 18 (8oz each)",
-            "price": 175.95
+            "price": 7
         },
         {
             "id": "double-stack-burger-kit-for-4",
             "img":  "images/2.png",
-            "name": "Holeman & Finch",
+            "name": "Churros",
             "dsc": "Double Stack Burger Kit for 4",
-            "price": 79
+            "price": 2
         },
         {
             "id": "goldbelly-burger-bash-pack",
             "img":  "images/2.png",
-            "name": "Pat LaFrieda Meats",
+            "name": "pastel de queijo",
             "dsc": "Goldbelly \"Burger Bash\" Pack",
-            "price": 109
+            "price": 7
         },
         {
             "id": "burger-au-poivre-kit-4-pack",
