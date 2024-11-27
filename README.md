@@ -1,1 +1,1 @@
-https://devjonasbt.github.io/JB-Sushi-Delivery/
+Repositorio criado para elaboração de um cardapio virtual. 
