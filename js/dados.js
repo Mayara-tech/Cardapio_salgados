@@ -88,7 +88,7 @@ var MENU = {
     "burgers": [
         {
             "id": "the-gramercy-tavern-burger-4-pack",
-            "img": "images/2.png",
+            "img": "images/1.png",
             "name": "Kibe ",
             "dsc": "joe, niguiri, temaki",
             "price":2
@@ -102,42 +102,42 @@ var MENU = {
         },
         {
             "id": "gotts-cheeseburger-kit-for-4",
-            "img": "images/2.png",
+            "img": "images/3.png",
             "name": "Enroladinho de salsicha",
             "dsc": "Gott's Complete Cheeseburger Kit for 4",
             "price": 2
         },
         {
             "id": "le-big-matt-kit-for-6",
-            "img":  "images/2.png",
+            "img":  "images/4.png",
             "name": "Salgado de Frango",
             "dsc": "Le Big Matt Burger Kit for 6",
             "price": 2
         },
         {
             "id": "shake-shack-shackburger-16-pack",
-            "img": "images/2.png",
+            "img": "images/5.png",
             "name": "Coxinha",
             "dsc": "Shake Shack Shackburger® - 16 Pack",
             "price": 2
         },
         {
             "id": "21-usda-prime-burgers-pack-of-18-8oz-each",
-            "img":  "images/2.png",
+            "img":  "images/6.png",
             "name": "Pastel",
             "dsc": "USDA Prime Burgers - Pack of 18 (8oz each)",
             "price": 7
         },
         {
             "id": "double-stack-burger-kit-for-4",
-            "img":  "images/2.png",
+            "img":  "images/7.png",
             "name": "Churros",
             "dsc": "Double Stack Burger Kit for 4",
             "price": 2
         },
         {
             "id": "goldbelly-burger-bash-pack",
-            "img":  "images/2.png",
+            "img":  "images/8.png",
             "name": "pastel de queijo",
             "dsc": "Goldbelly \"Burger Bash\" Pack",
             "price": 7
