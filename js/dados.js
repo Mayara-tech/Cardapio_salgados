@@ -123,7 +123,7 @@ var MENU = {
         },
         {
             "id": "21-usda-prime-burgers-pack-of-18-8oz-each",
-            "img":  "images/6.jpeg",
+            "img":  "images/8.jpeg",
             "name": "Pastel",
             "dsc": "USDA Prime Burgers - Pack of 18 (8oz each)",
             "price": 7
